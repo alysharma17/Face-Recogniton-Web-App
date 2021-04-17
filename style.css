@@ -1,0 +1,11 @@
+.class{
+    width:1400px;
+}
+h1 {
+    font-size:xx-large;
+    font-style: italic;
+    font-family: Verdana;
+}
+body {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK4g6DjrUuqH3ahU9oFm05z2LJxHO4bOSNjA&usqp=CAU");
+}
